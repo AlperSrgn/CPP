@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\alper\source\repos\Kod_Analiz_1\Source.cpp(11,17): error C2440: '=': cannot convert from 'void *' to 'int **'
+C:\Users\alper\source\repos\Kod_Analiz_1\Source.cpp(11,17): message : Conversion from 'void*' to pointer to non-'void' requires an explicit cast
+C:\Users\alper\source\repos\Kod_Analiz_1\Source.cpp(26,53): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\alper\source\repos\Kod_Analiz_1\Source.cpp(26,53): message : placeholders and their parameters expect 3 variadic arguments, but 4 were provided
